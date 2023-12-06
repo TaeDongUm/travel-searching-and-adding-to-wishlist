@@ -2,7 +2,7 @@
 
 ## 프로젝트 목표
 - Vue와 Spring boot로 웹 서비스 구현 역량 기르기
-- JWt 적용 및 Redis로 토큰 관리
+- Jwt 적용 및 Redis로 토큰 관리
 
 ## 기술 스택
 
